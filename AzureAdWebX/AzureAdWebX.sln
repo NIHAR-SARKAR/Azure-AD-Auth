@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.28307.1831
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebAppX", "WebAppX\WebAppX.csproj", "{D25FF3F0-9354-4680-A3BF-2A60248756F8}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AzureAdWebX", "AzureAdWebX\AzureAdWebX.csproj", "{F7630A17-8C1C-4815-B77C-9A04BDEA1C36}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,15 +11,15 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{D25FF3F0-9354-4680-A3BF-2A60248756F8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{D25FF3F0-9354-4680-A3BF-2A60248756F8}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{D25FF3F0-9354-4680-A3BF-2A60248756F8}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{D25FF3F0-9354-4680-A3BF-2A60248756F8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F7630A17-8C1C-4815-B77C-9A04BDEA1C36}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F7630A17-8C1C-4815-B77C-9A04BDEA1C36}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F7630A17-8C1C-4815-B77C-9A04BDEA1C36}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F7630A17-8C1C-4815-B77C-9A04BDEA1C36}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {D6EDFAC3-870A-42BA-B293-D0A83FA58DF1}
+		SolutionGuid = {D6AB3497-A591-46BE-B4AF-1A6444DFD905}
 	EndGlobalSection
 EndGlobal
