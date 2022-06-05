@@ -75,7 +75,7 @@ namespace AzureAdWebX
         private Task OnAuthenticationFailed(AuthenticationFailedNotification<OpenIdConnectMessage, OpenIdConnectAuthenticationOptions> context)
         {
             context.HandleResponse();
-            context.Response.Redirect("/?errormessage=" + context.Exception.Message);
+            context.Response.Write(context.Exception.Message);
             return Task.FromResult(0);
         }
 
